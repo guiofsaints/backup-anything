@@ -4,13 +4,19 @@
 
 ## Scripts
 
+### Database
+
 - [MongoDB](./atlas-mongodb/README.md)
-- [GCP Bucket](gcp-bucket/README.md)
-- AWS Bucket
 - PostgreSQL
 - MySQL
-- DynamoDB
 - Redis
+- Elastic
+
+### Bucket
+
+- [GCP Bucket](gcp-bucket/README.md)
+- AWS Bucket
+- Azure Bucket
 
 ## Get startd
 
