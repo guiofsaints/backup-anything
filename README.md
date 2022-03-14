@@ -1,6 +1,6 @@
 # Backup Scripts
 
-📦 Shell scripts to backup anything (local).
+📦 Shell scripts to create backup of anything (local).
 
 ## Scripts
 
