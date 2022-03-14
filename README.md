@@ -24,5 +24,5 @@ git clone https://github.com/gui-text/backup-anything.git && cd backup-anything
 - Create a CLI with Oclif
 - Configure a server to save backups
 - Create a Web interface?
-- Add restore backup
+- Create backup restore
 - Create an automation to schedule backups?
