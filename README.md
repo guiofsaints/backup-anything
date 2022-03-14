@@ -25,4 +25,4 @@ git clone https://github.com/gui-text/backup-anything.git && cd backup-anything
 - Configure a server to save backups
 - Create a Web interface?
 - Add restore backup
-- Create a scheduling automation?
+- Create an automation to schedule backups?
