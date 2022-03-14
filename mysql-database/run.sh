@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+. ./mysql-database/.env
+
 BACKUP_FILENAME=./mysql-database/backup/$(date +'%Y-%m-%d').sql
 
 check_var() {
