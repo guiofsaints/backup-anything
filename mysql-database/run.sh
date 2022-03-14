@@ -15,6 +15,7 @@ check_var 'MYSQL_HOST' "$MYSQL_HOST"
 check_var 'MYSQL_PORT' "$MYSQL_PORT"
 check_var 'MYSQL_USERNAME' "$MYSQL_USERNAME"
 check_var 'MYSQL_PASSWORD' "$MYSQL_PASSWORD"
+check_var 'MYSQL_DATABASE' "$MYSQL_DATABASE"
 
 mysqldump \
     --host "$MYSQL_HOST" \
@@ -25,4 +26,4 @@ mysqldump \
     --no-create-db \
     --single-transaction \
     --result-file "$BACKUP_FILENAME" \
-    --databases $*
+    --databases "$MYSQL_DATABASE"
