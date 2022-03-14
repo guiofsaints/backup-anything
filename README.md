@@ -7,6 +7,12 @@
 - [MongoDB](./atlas-mongodb/README.md)
 - [GCP Bucket](gcp-bucket/README.md)
 
+## Get startd
+
+```bash
+git clone https://github.com/gui-text/backup-anything.git && cd backup-anything
+```
+
 ## Roadmap
 
 - Add ZX

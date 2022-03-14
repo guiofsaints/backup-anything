@@ -7,6 +7,12 @@ Shell script to backup data from Atlas MongoDB.
 - [MongoDB Database Tools](https://docs.mongodb.com/database-tools/installation/installation-macos/)
 - MacOS or Linux
 
+## Get startd
+
+```bash
+git clone https://github.com/gui-text/backup-anything.git && cd backup-anything
+```
+
 ## Configure
 
 After install MongoDB Database Tools, rename file mongodb.yaml.example to mongodb.yaml and write the URI:

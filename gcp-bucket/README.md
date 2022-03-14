@@ -8,6 +8,12 @@ Shell script to backup files from GCP bucket.
 - Zip
 - MacOS or Linux
 
+## Get startd
+
+```bash
+git clone https://github.com/gui-text/backup-anything.git && cd backup-anything
+```
+
 ## Configure
 
 Step 1: After install gsutil, run this command to configure Google Cloud:
