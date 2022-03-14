@@ -6,6 +6,11 @@
 
 - [MongoDB](./atlas-mongodb/README.md)
 - [GCP Bucket](gcp-bucket/README.md)
+- AWS Bucket
+- PostgreSQL
+- MySQL
+- DynamoDB
+- Redis
 
 ## Get startd
 
