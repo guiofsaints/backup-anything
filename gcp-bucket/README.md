@@ -1,6 +1,6 @@
 # GCP Bucket Backup
 
-Shell script to backup files from GCP bucket.
+Shell script to create backup files from GCP bucket.
 
 ## Requirements
 
