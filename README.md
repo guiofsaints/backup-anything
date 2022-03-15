@@ -10,7 +10,7 @@
 - PostgreSQL
 - [MySQL](./mysql-database/README.md)
 - Redis
-- Elastic
+- Elasticsearch
 
 ### Bucket
 
@@ -18,7 +18,7 @@
 - AWS Bucket
 - Azure Bucket
 
-## Get startd
+## Get started
 
 ```bash
 git clone https://github.com/gui-text/backup-anything.git && cd backup-anything
