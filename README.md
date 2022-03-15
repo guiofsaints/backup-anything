@@ -8,7 +8,7 @@
 
 - [MongoDB](./atlas-mongodb/README.md)
 - PostgreSQL
-- MySQL
+- [MySQL](./mysql-database/README.md)
 - Redis
 - Elastic
 
