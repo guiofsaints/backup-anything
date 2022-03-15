@@ -6,17 +6,17 @@
 
 ### Database
 
-- [MongoDB](./atlas-mongodb/README.md)
-- PostgreSQL
-- [MySQL](./mysql-database/README.md)
-- Redis
-- Elasticsearch
+- [x] [MongoDB](./atlas-mongodb/README.md)
+- [ ] PostgreSQL
+- [x] [MySQL](./mysql-database/README.md)
+- [ ] Redis
+- [ ] Elasticsearch
 
 ### Bucket
 
-- [GCP Bucket](gcp-bucket/README.md)
-- AWS Bucket
-- Azure Bucket
+- [x] [GCP Bucket](gcp-bucket/README.md)
+- [ ] AWS Bucket
+- [ ] Azure Bucket
 
 ## Get started
 
