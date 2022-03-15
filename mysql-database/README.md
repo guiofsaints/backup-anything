@@ -4,7 +4,7 @@ Shell script to backup data from MySQL Database.
 
 ## Requirements
 
-* `mysqldump`
+* [mysqldump](https://dev.mysql.com/doc/mysql-shell/8.0/en/mysql-shell-install-linux-quick.html)
 
 ## Get startd
 
