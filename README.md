@@ -16,7 +16,7 @@
 
 - [x] [GCP Bucket](gcp-bucket/README.md)
 - [ ] AWS Bucket
-- [ ] Azure Bucket
+- [ ] Azure Blob Storage
 
 ## Get started
 
