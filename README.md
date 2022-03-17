@@ -11,12 +11,16 @@
 - [x] [MySQL](./mysql-database/README.md)
 - [ ] Redis
 - [ ] Elasticsearch
+- [ ] Cassandra
+- [ ] DynamoDB
 
 ### Bucket
 
 - [x] [GCP Bucket](gcp-bucket/README.md)
-- [ ] AWS Bucket
+- [ ] AWS Bucket S3
 - [ ] Azure Blob Storage
+- [ ] DigitalOcean Spaces
+- [ ] IBM Cloud Object Storage
 
 ## Get started
 
