@@ -17,7 +17,7 @@
 ### Bucket
 
 - [x] [GCP Bucket](gcp-bucket/README.md)
-- [ ] AWS Bucket S3
+- [x] [AWS Bucket S3](aws-bucket/README.md)
 - [ ] Azure Blob Storage
 - [ ] DigitalOcean Spaces
 - [ ] IBM Cloud Object Storage
