@@ -20,6 +20,7 @@ Step 1: Copy `.env.example` to `.env` and edit:
 AWS_ACCESS_KEY_ID=
 AWS_SECRET_ACCESS_KEY=
 AWS_DEFAULT_REGION=
+AWS_S3_BUCKET=
 ```
 
 ## How to use
